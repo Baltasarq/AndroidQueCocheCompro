@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AndroidQueCocheCompro</string>
+    <string name="app_name">SOFA (Sociedad Fabricante de Automóviles)</string>
+    <string name="lbl_tipo">Tipo</string>
+    <string name="lbl_familiar">Familiar</string>
+    <string name="lbl_extras">Extras</string>
+    <string name="lbl_comentarios">Comentarios</string>
 </resources>
